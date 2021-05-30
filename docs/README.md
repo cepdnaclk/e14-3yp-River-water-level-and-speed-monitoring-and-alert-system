@@ -142,7 +142,7 @@ The threshold values may vary due to the depth of the water body also.
 ### Documents  
 See for the attached pdf for the final Plan and design blue prints. This includes all the fine details regarding hardware design,network design,database design,the technologies used and the security aspects. This also covers the budget and the timeline plan.  
 
-  - [Project Plan](2.pdf)  
+  - [Project Plan](data/documents/2.pdf)  
 
 
 
