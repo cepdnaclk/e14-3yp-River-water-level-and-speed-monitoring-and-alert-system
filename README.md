@@ -112,16 +112,11 @@ There are no sensitive data on our system,as anyone outside viewing the data won
 
 ### Power Supply  
 
-Module                       Voltage          Current  
+
+![Image](docs/data/images/6.JPG)  
 
 
-Arduino    	                7.2V - 9V	    250mA - 1A  
-
-GSM module                  3.2V - 5V         1A - 2A  
-
-UltraSonic Wave Sensor          5V           15mA - 2A  
-
-Flow Rate Sensor                5V               1A  
+  
 
 ![Image](docs/data/images/3.png)  
 
