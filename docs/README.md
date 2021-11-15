@@ -147,7 +147,7 @@ See for the attached pdf for the final Plan and design blue prints. This include
 - <a href = "https://github.com/cepdnaclk/e14-3yp-River-water-level-and-speed-monitoring-and-alert-system" target = "_blank">Project Repository</a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-River-water-level-and-speed-monitoring-and-alert-system/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
