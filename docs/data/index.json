@@ -3,24 +3,24 @@
     "team": [
         {
             "name": "DILSHANI T.H.K.",
-            "email": "e14080@eng.pdn.ac.lk",
+            "email": "e14080@ce.pdn.ac.lk",
             "eNumber": "E/14/080"
         },
         {
             "name": "MUNASINGHE S.L.",
-            "email": "e14228@eng.pdn.ac.lk",
+            "email": "e14228@ce.pdn.ac.lk",
             "eNumber": "E/14/228"
         },
         {
             "name": "PAVITHYA M.B.D.",
-            "email": "e14240@eng.pdn.ac.lk",
+            "email": "e14240@ce.pdn.ac.lk",
             "eNumber": "E/14/240"
         }
     ],
     "supervisors": [
         {
             "name": "Dr. Isuru Nawinne",
-            "email": "isurunawinne@eng.pdn.ac.lk"
+            "email": "isurunawinne@ce.pdn.ac.lk"
         }
     ],
     "tags": []
